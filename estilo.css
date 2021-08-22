@@ -1,0 +1,11 @@
+*//body{background-color: yellow;}
+p{font-size: 40px; text-shadow: 1px 1px #111111;}
+h1{color:  #2b8bff; font-size: 50px;}
+*{margin: 0;}
+header{background-color: gray; height: 140px; margin: 0px auto; clear: both;}
+#principal{background-image: url('cidade.jpg'); background-size: 100%; min-height: 425px; text-align: center; padding: 25px;}
+.container{width: 1300px; margin: 0 auto;}
+#logo{float: left; margin-left: 0px; margin-top: 0px;}
+#menu{float: right; margin-top: 100px;}
+#menu a{text-decoration: none; color: black; padding: 65px 20px; font-size: 30px; text-shadow: 1px 1px #111111;}
+#menu a:hover{background-color: whitesmoke; color: white; padding: 20px 10px;}
