@@ -7,5 +7,5 @@ header{background-color: gray; height: 140px; margin: 0px auto; clear: both;}
 .container{width: 1300px; margin: 0 auto;}
 #logo{float: left; margin-left: 0px; margin-top: 0px;}
 #menu{float: right; margin-top: 100px;}
-#menu a{text-decoration: none; color: blue; padding: 65px 20px; font-size: 30px; text-shadow: 1px 1px #111111;}
+#menu a{text-decoration: none; color: black; padding: 65px 20px; font-size: 30px; text-shadow: 1px 1px #111111;}
 #menu a:hover{background-color: whitesmoke; color: white; padding: 20px 10px;}
